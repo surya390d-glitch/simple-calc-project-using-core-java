@@ -45,21 +45,3 @@ public class Calc{
         in.close();
     }
 }
-
-
-
-
-
-
-
- else if(op == 'x' || op == 'X'){
-                break;
-            }
-            else{
-                System.out.println("invalid arithmetic operation..");
-            }
-        }
-        in.close();
-    }
-}
-
